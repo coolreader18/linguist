@@ -1736,6 +1736,7 @@ HTML:
   color: "#e34c26"
   aliases:
   - xhtml
+  - hypertextmarkuplanguage
   extensions:
   - ".html"
   - ".htm"
